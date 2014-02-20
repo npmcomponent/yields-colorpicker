@@ -3,9 +3,9 @@
  * dependencies
  */
 
-var emitter = require('emitter')
-  , events = require('events')
-  , merge = require('merge');
+var emitter = require('component-emitter')
+  , events = require('component-events')
+  , merge = require('yields-merge');
 
 /**
  * export `Picker`

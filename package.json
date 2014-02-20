@@ -1,0 +1,15 @@
+{
+  "name": "yields-colorpicker",
+  "description": "simple color picker.",
+  "version": "0.1.0",
+  "keywords": [
+    "colorpicker"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-events": "git://github.com/npmcomponent/component-events.git",
+    "yields-merge": "git://github.com/npmcomponent/yields-merge.git"
+  },
+  "license": "MIT"
+}
